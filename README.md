@@ -1,6 +1,6 @@
 # aigonewrong.github.io
 
-some notes
+https://twitter.com/aigonewrong/status/1608611313407922177?s=20&t=dCBLf1L-nXn9YdR56PjVPA
 
 + created this repo for testing nostr nip-05:
 ```
